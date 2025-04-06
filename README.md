@@ -14,5 +14,6 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 -	Sharing Insights
 
 ## Dashboard
+![dasboard_power bi](https://github.com/user-attachments/assets/163c44ff-39ad-4c42-9afc-05582e8bd5a2)
 
 
