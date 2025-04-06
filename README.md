@@ -1,4 +1,4 @@
-## Power Bi Madhav store
+## Analyze E-Commerce Sales Data created interactive dashboard using Power bi
 
 ## Dataset
 <a href="https://github.com/payal-dabhi/PowerBi-project/blob/main/Madhav_store.pbix">View Dataset</a>
